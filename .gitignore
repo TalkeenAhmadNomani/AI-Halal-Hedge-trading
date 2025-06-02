@@ -18,6 +18,10 @@ lib/
 lib64/
 parts/
 sdist/
+all_stocks_data/
+combined_data/
+csv/
+
 var/
 wheels/
 share/python-wheels/
